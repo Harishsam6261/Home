@@ -2410,7 +2410,7 @@ select.mobile-device {
   top: calc(50% - 17px);
   left: calc(50% - 35px);
 }
-#loader {
+/*#loader {
   width: 70px;
   height: 70px;
   border-style: solid;
@@ -2432,7 +2432,7 @@ select.mobile-device {
   }
   75% { border-width: 3px;}
   100% { border-width: 10px;}
-}
+}*/
 
 /*------------------------------------------------------------------
     BUTTONS
